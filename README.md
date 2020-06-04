@@ -14,12 +14,12 @@ This is the place to add your Cucumber step definitions that will match via regu
 This package is to add classes of general/global utilities. Like getting the WebDriver.
 
 ## Resources
-This is the place to add your feature files and your drivers (chromedriver in this example)
+This is the place to add your feature files and your drivers (chromedriver in this example).
 
 ### What is the current example
 
-1. The driver goes to the El Tiempo website (a news site from Colombia, where I'm from)
-2. Clicks the Colombia option from the site menu
+1. The driver goes to the El Tiempo website (a news site from Colombia, where I'm from).
+2. Clicks the Colombia option from the site menu.
 3.Validates that after the page redirection the driver is located where it should.
 
 The behavior of the above example is very trivial however the point of this project is not to add a complex test scenario but instead represent an example of a POM implementation.
